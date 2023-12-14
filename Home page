@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home</title>
+        
+        <style>
+            .careers{
+               text-align: center;
+               font:Georgia;
+           } 
+            
+            .accomplishments{
+                text-align:center;
+                font:Georgia;
+            }
+            
+            
+            
+            body{
+                background-color:MediumSeaGreen;
+            }
+            
+            .aboutUs{
+                color:white;
+                font:Georgia;
+            }
+            
+            .center{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+  `         width: 50%;
+            }
+            
+            .aboutUsTitle{
+                font-family: 'Times New Roman', serif;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class = "careers">
+            <a href="https://ptdfxgzldq-2075703600-a.codehs.me/joinUs.html"> Join Us!</a>
+        </h1>
+        <h1 class = "accomplishments">
+            <a href="https://ptdfxgzldq-2075703600-a.codehs.me/ourImpact.html">Our Impact</a>
+                
+        </h1>
+        <hr>
+        <h1 class = aboutUsTitle>About Us</h1> 
+    <h3 class = "aboutUs">
+        Sandy Hook Promise is a national nonprofit organization founded and led by several family members whose loved ones were killed at Sandy Hook Elementary School on December 14, 2012.
+        Based in Newtown, Connecticut, we intend to honor all victims of gun violence by turning our tragedy into a moment of transformation.
+        By empowering youth to "know the signs" and uniting all people who value the protection of children, we can take meaningful actions in schools, homes, and communities to prevent gun violence and stop the tragic loss of life.
+        
+    </h3>
+    <hr>
+    <img src = "https://codehs.com/uploads/e725c2897520879c22a3b306e734bb8a" class = center
+    width = "700px" height = "650px">
+    
+    </body>
+        
+        
+    
+    
+    
+    
+</html>
