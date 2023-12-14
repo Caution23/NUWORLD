@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Volunteer!</title>
+        
+        <style>
+            .aboutUs{
+               text-align: center;
+               font:Georgia;
+           } 
+            
+            .joinUs{
+                text-align:center;
+                font:Georgia;
+            }
+            
+            
+            
+            body{
+                background-color:MediumSeaGreen;
+            }
+            
+            .aboutUs{
+                color:white;
+                font:Georgia;
+            }
+            
+            .center{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+  `         width: 50%;
+            }
+            
+            .aboutUsTitle{
+                font-family: 'Times New Roman', serif;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class = "aboutUs">
+            <a href="https://ptdfxgzldq-2075703600-a.codehs.me/index.html"> About Us</a>
+        </h1>
+        <h1 class = "joinUs">
+            <a href="https://ptdfxgzldq-2075703600-a.codehs.me/ourImpact.html">Our Impact</a>
+                
+        </h1>
+        <hr>
+        <h1 class = careersTitle>Volunteer</h1> 
+    <h3 class = "aboutUs">
+        After signing up to be a Promise Leader, new volunteers are emailed the Getting Started orientation video. Watching the video is required to complete volunteer onboarding. 
+        Our Promise Leader team is available to answer questions, offer resources, and give guidance to support you in your efforts.
+        Promise Leaders can also join the private Facebook group to connect with other volunteers, learn about volunteer opportunities, and share their actions.
+        
+    </h3>
+    <hr>
+    <h5><a href="https://www.sandyhookpromise.org/take-action/volunteer/"> Volunteer here!</a></h5>
+    <img src = "https://i.ytimg.com/vi/gZeViYzf49s/maxresdefault.jpg" class = center
+    width = "800px" height = "550px">
+    
+    </body>
+        
+        
+    
+    
+    
+    
+</html>
